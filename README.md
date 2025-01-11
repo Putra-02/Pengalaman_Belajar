@@ -11,3 +11,8 @@
 * Belajar apa itu git apa itu github
 * istilah istilah pada git: commit, branch, pull, push, checkout, resset, revert
 * Belajar membuat, dan mengubah repository
+
+*12 Januari 2025*   
+**Belajar git dan github (progres 100%)**  
+* belajar git dan github
+
