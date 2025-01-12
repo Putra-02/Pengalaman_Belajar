@@ -1,2 +1,3 @@
 Pengalaman coding camp powered by dbs foundation
 fokus front end dan back end developer
+Membuat sebuah website dengan html, css dan java script
